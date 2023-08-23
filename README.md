@@ -1,1 +1,3 @@
-# notebooks
+# Notebooks
+
+by Ian McLoughlin
