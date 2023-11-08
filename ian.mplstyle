@@ -1,0 +1,17 @@
+axes.titlesize : 24
+axes.labelsize : 20
+lines.linewidth : 1
+lines.markersize : 4
+xtick.labelsize : 10
+ytick.labelsize : 10
+
+axes.facecolor: white
+axes.edgecolor: grey
+axes.grid: True
+grid.color:"#b0b0b0"
+
+axes.spines.left:   True  # display axis spines
+axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+grid.linestyle: :
